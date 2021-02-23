@@ -1,0 +1,10 @@
+[
+    {
+        "id": 0,
+        "about": "Frontend JavaScript. React/Redux. https://github.com/alx8437 https://www.codewars.com/users/Deziondev\nНавыки:\nReact: UI - BLL, Flux, props, callback, hooks, HOC, thunk, saga, unit-tests, route, CSS modules, Provider, state, class and function component, Context API, REST-API, ajax, axios\nRedux: Общая концепция: dispatch(), subscriber, getState(), Reducer, store, connect, hooks, react-redux library, actions, actionCreaters, deep/shallow copy, Side-Effect, cookie\nHTML 5 - Верстка, используя семантические теги\nCSS - Блочная модель CSS, Псевдоклассы, псевдоэлементы\nПрепроцессоры. SASS/SCSS - переменные, миксины, блоки\nGit - add, commit, push, pull, clone, fetch, branches\nБЭМ - верстка используя методологию Блок Элемент\nМодификатор.\nGulp - использую сборщик в купе с vscode\nJS - основы, циклы, массивы (map, filter, pop, push), объекты, функции. Действия с элементами на странице. События и их обработчики\nТестирование: Unit tests, Test-driven development, Jest\nSoft Skills: Чтение документации, технической литературы на английском языке, профессиональное саморазвитие. Коммуникабельность."
+    },
+    {
+        "id": 1,
+        "about": "Проходил производственную практику, в течение месяца активно писал на React.\nДо этого писал на vue. Так что и в нем есть некий опыт, но в основном щас сконцентрирован на React.\nЕсть знания react , redux , sagas, antd.\nБазовые знания typescript.\nНеплохо знаю сам js.\nИщу только неофициальное трудоустройство!\nСейчас проживаю в г. Петрозаводск\nГотов работать как онлайн, так и оффлайн с переездом.\nХочу учиться и повышать свои профессиональные навыки."
+    }
+]
